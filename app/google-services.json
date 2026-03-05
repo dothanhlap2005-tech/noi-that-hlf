@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807918198901",
+    "project_id": "noithathlf",
+    "storage_bucket": "noithathlf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807918198901:android:4f1ec0bb525aeff064d83c",
+        "android_client_info": {
+          "package_name": "com.noithat.hlf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dpZ4cXBItVIN2tw7RMQ3mifIrkDCs0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
